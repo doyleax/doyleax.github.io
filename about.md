@@ -10,7 +10,7 @@ A little about myself... I'm currently a student at General Assembly's Data Scie
 
 I have a puppy named Boomer and he is the coolest.
 
-({{ site.baseurl }}/images/boomer.jpg)
+!({{ site.baseurl }}/images/boomer.jpg)
 ### Contact me
 
 [Email](mailto:doylejma@gmail.com)
