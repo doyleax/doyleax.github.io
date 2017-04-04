@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A little about myself... I'm currently a student at General Assembly's Data Science Immersive. We are constantly working on real-world applications of what we learn, and this is where I'll be sharing some of the insights I've discovered through the datasets we work with. I'll also be sharing anything I discover on the way--probably mostly revolving around whatever I spent a decent amount Googling.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a puppy named Boomer and he is the coolest.
 
 ### Contact me
 
