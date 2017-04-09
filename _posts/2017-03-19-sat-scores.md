@@ -1,6 +1,4 @@
 
-## 2001 SAT Scores
-
 For a project, I was given SAT score data from eligible students--those who were in high school and took the SAT in 2001. We were told simply to see what insights we could draw. After my initial scan of the data, what immediately stood out to me was the number of low participation scores--percentage of high school students who took the SAT--specifically in the Midwest. 
 
 This brought to mind a conversation I had with my freshman year college roommate, because obviously freshman in their first month of college think it's still relevant to talk about standardized tests. My roommate is from Chicago, and mentioned that all of her classmates were taking the ACT, but none of the schools she wanted to attend required the ACT. She was primarily looking at East Coast schools. I then thought about my own classmates on the East Coast who would take and retake the SATs, but pay not mind to the ACTs. It seemed like a pretty clear regional divide.
