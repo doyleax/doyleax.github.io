@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "SAT Scores"
+date:   2017-03-26 21:55:09 -0400
+categories: how-to
+---
 
 For a project, I was given SAT score data from eligible students--those who were in high school and took the SAT in 2001. We were told simply to see what insights we could draw. After my initial scan of the data, what immediately stood out to me was the number of low participation scores--percentage of high school students who took the SAT--specifically in the Midwest. 
 
