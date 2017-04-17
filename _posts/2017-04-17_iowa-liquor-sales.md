@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Iowa Liquor Sales"
+date:   2017-04-17
+categories: jekyll update
+---
+
 For our second project, we were to take liquor sales from Iowa and determine ideal locations for opening a new liquor store. The data can be found on the government of Iowa's website, [here](https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy).
 
 As it's a fairly large dataset, I used 10% of the data for my EDA and model training. The data was pretty clean, aside for some missing county names, which could be assigned using the store's zip code. 
