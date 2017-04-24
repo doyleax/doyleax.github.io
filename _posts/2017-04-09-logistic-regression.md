@@ -5,9 +5,7 @@ date:   2017-04-09
 categories: jekyll update
 ---
 
-In this post, I'll talk about some of the basics of logistic regression, and why we would use this type of modeling over linear regression.
-
-To help illustrate these concepts, I'll use the Titanic dataset which can be found here: https://www.kaggle.com/c/titanic/data.
+In this post, I'll talk about some of the basics of logistic regression, and why we would use this type of modeling over linear regression. To help illustrate these concepts, I'll use the Titanic dataset which can be found [here](https://www.kaggle.com/c/titanic/data).
 
 Before we begin, let's assume we want to use a linear regression model for our data, and keep in mind the key assumptions of a linear model:
 Linearity- our dependent and independent variables have a linear relationship
@@ -16,10 +14,10 @@ Normality- the errors/residuals follow a normal distribution
 Equality of variances- the errors/residuals have generally equal variances/follow the same pattern
 
 Let's take a simple example and check out survival based on age. The 'Survived' column is 0 for didn't survive and 1 for did survive, and the age column is the passengers' ages. Here's a scatter plot:
-![Titanic Scatter plot]({{ site.baseurl }}/images/titanic_scatter.png)
+![Titanic Scatter plot]({{ site.baseurl }}/images/survived_dist.png)
 
 Notice how the points form two separate lines. If we think about what the 'Survived' variable is, it makes sense that we have two separate lines of points, as 'Survived' can only be either 0 or 1. How would we even place a line of best fit?
-![Titanic Linear Model]({{ site.baseurl }}/images/titanic_linear.png)
+![Titanic Linear Model]({{ site.baseurl }}/images/lin_line.png)
 
 There isn't an area that makes sense for a line to best describe the data we have. Referring back to the key assumptions, we can already cross off the linearity assumption: for X and Y to have a linear relationship, a change in 1 unit of X implies a change in Y. Our data doesn't act in this condition, as one distinct age could be either of the Y values. While this data already doesn't qualify for a linear model, we can confirm this by looking at the residuals.
 ```python
