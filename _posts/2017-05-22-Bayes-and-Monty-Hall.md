@@ -31,6 +31,4 @@ def lets_make_a_deal(door,action):
 
 lets_make_a_deal('A','K')
 #lose
-###
-
-You can also run simulations 
+```
