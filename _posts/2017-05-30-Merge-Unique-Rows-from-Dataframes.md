@@ -1,4 +1,6 @@
-I am constantly trying to figure out how to add a row into a dataframe only if it doesn't already exist. My indices will never match up and are irrelevant. If I try checking the dataframe to see if the new row should be added, it always adds it because the indices differ, and then I have to drop_duplicates.
+I am constantly trying to remember how to add a row into a dataframe only if it doesn't already exist. My indices will never match up and are irrelevant, so I struggle to figure out how to ignore the indexes on the dataframes.
+
+This post is for future me when I inevitably forget about the parameters of the Pandas merge function. I'm hoping I'll naturally Google some of the words here to lead me quickly to my answer.
 
 For anyone else who thinks in SQL when they code in Python, hopefully the following will be helpful. I'm trying to see whether the row already exists. For this example, say that the table is just one column, 'letter', and has rows 'a','b','c'. Table2 will have 2 rows,'b' & 'd', and I want to see if I can add any rows that aren't already in Table1. Table2 will be 'b' and Row2 will be 'd.'
 
