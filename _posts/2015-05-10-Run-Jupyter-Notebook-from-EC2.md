@@ -151,3 +151,19 @@ jupyter notebook
 ![Ubuntu]({{ site.baseurl }}/images/jupyter_proceed.png)
 
 #### You'll be prompted for a password, which is the one you set earlier. It won't be the encrypted version that you pasted into the config file, but the actual password. Now you should be all set up!
+
+## To avoid having to go through this ever again: Create a snapshot.
+#### Back in the AWS console, click on **Snapshots**.
+![Ubuntu]({{ site.baseurl }}/images/snapshots.png)
+
+#### Click on **Create Snapshot**
+![Ubuntu]({{ site.baseurl }}/images/create_snapshot.png)
+![Ubuntu]({{ site.baseurl }}/images/create_snapshot_details.png)
+#### In the window that pops up, click in the textbox for **Volume**. There should be an autofilled ID that you can click on.
+![Ubuntu]({{ site.baseurl }}/images/create_snapshot_vol.png)
+
+#### Name it, then hit **Create**. You now have a snapshot of the instance that we just set up.
+
+### Stop Instance
+#### When you're finished using your instance, stop it. Go to the **Instances** page and check the box of your instance, then hit **Actions > Instance State > Stop**
+![Ubuntu]({{ site.baseurl }}/images/stop_instance.png)
