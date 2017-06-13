@@ -19,3 +19,6 @@ vincenty(A,B).miles
 ```
 
 You can do the same for different units of measurement, which makes this an extremely useful tool.
+
+
+For my complete project on Predicting West Nile Virus, check out my [portfolio](http://doyleax.github.io/Portfolio/west-nile-virus.html).
