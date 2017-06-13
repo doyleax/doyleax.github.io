@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Convert Number-String (?) to Number in Python"
+title:  "Convert String to Number in Python"
 date:   2017-03-27 13:45:14 -0400
-categories: jekyll update
+categories: how-to
 ---
 
 While working on a project, I came across this issue where I had what I'm calling a number-string (as I'm unaware of a better/correct term): a number with commas that will be stored as a string and cannot be modified using int(num-string) or float(num-string) or .astype(float). I've tried them all. I've also tried removing the commas and then converting. No such luck.
