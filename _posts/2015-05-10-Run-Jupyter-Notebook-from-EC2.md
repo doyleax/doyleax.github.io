@@ -23,9 +23,9 @@ Assuming you have an AWS account, go to the EC2 page. If you're on the EC2 Dashb
 
 ...and then hit the **Next: Configure Instance Details** at the bottom right corner. This will direct you to a page that says **Step 3**. 
 
-Don't change any settings, but keep hitting **Next:** in the bottom right corner until you reach **Step 6: Configure Security Group**.
-
 ![Ubuntu]({{ site.baseurl }}/images/configure_instance.png)
+
+Don't change any settings, but keep hitting **Next:** in the bottom right corner until you reach **Step 6: Configure Security Group**.
 
 ![Ubuntu]({{ site.baseurl }}/images/security_group.png)
 
@@ -34,10 +34,12 @@ Don't change any settings, but keep hitting **Next:** in the bottom right corner
 
 Hit **Review and Launch**, and then **Launch** on the **Step 7: Review Instance Launch**.
 
+
 ### Key pair
 Assuming you already have a key pair that is password protected, select your key pair and launch. If you don't have a password protected key pair, [find more info here](https://chrisalbon.com/jupyter/run_project_jupyter_on_amazon_ec2.html).
 
 ![Ubuntu]({{ site.baseurl }}/images/key_pair.png)
+
 
 ### Launch Status
 At the bottom of this page, hit the big blue **View Instances** button, and you'll be directed back to the **Instances** page. With your instance selected, hit **Connect**.
