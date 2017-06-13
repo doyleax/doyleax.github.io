@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Convert String to Number in Python"
-date:   2017-03-27 13:45:14 -0400
+date:   2017-04-02
 categories: how-to
 ---
 
-While working on a project, I came across this issue where I had what I'm calling a number-string (as I'm unaware of a better/correct term): a number with commas that will be stored as a string and cannot be modified using int(num-string) or float(num-string) or .astype(float). I've tried them all. I've also tried removing the commas and then converting. No such luck.
+While working on a project, I came across this issue where I had a string which was a number with commas. As it's stored as a string, it cannot be modified using int(string) or float(string) or .astype(float). I've tried them all. I've also tried removing the commas and then converting. No such luck.
 
 Here's a number with a comma, type str:
 ```python
