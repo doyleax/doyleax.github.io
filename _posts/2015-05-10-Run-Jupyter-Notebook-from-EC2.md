@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-This is a tutorial adapted from Chris Albon's found [here]https://chrisalbon.com/jupyter/run_project_jupyter_on_amazon_ec2.html, which is a tutorial adapted from one linked on his page. There were a couple of things that I needed clarification for, so I wanted to make sure I wrote everything down in the event I need to go through this process again. The thing I learned is that this will only work if you do **literally everything** exactly as shown on this page. Also... using nearly every screen shot from Chris Albon's post so ty.
+This is a tutorial adapted from Chris Albon's found [here](https://chrisalbon.com/jupyter/run_project_jupyter_on_amazon_ec2.html), which is a tutorial adapted from one linked on his page. There were a couple of things that I needed clarification for, so I wanted to make sure I wrote everything down in the event I need to go through this process again. The thing I learned is that this will only work if you do **literally everything** exactly as shown on this page. Also... using nearly every screen shot from Chris Albon's post so ty.
 
 
 Assuming you have an AWS account, go to the EC2 page. If you're on the EC2 Dashboard page, click on **Instances** under the main **Instances** sidebar menu. Once on the **Instances** page, hit the big blue **Launch Instance** button.
