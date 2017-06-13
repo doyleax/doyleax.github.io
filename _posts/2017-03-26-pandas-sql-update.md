@@ -9,7 +9,7 @@ I'm fairly new to Python and even more so to Pandas, but I'm pretty experienced 
 
 While I knew there was a way to run SQL queries in Python, I had no idea if it could serve the purpose I had in mind. My dataframe contained columns for zip_code, city, and county, but the county column was null for a portion of the rows. I wanted to make sure I could breakdown my data by each of those three attributes, so filling in these values was a must.
 
-I'm sure there are plenty of more efficient ways to do this sort of task, but I figured I'd throw this out there for anyone else who is in a jam and is desperate for a fix.
+I have since figured out a few great ways to accomplish this task with Pandas, but I figured I'd throw this out there for anyone else who is in a jam and would love to use SQL instead of Pandas for data manipulation.
 
 Quick overview of what I had and what I needed to do:
 I had 3 Pandas dataframes- liquor, county_lookup, and iowa_zips. The df liquor is where my county column needed some help, and I planned to fill in the missing county name by pulling county from county_lookup, linking by zip_code. Any remaining nulls in county would be filled by linking to iowa_zips by zip_code and pulling the county field.
@@ -26,13 +26,3 @@ liquor.to_sql('liquor', engine) .             # push liquor df to SQL table
 county_lookup.to_sql('county_lookup', engine) # push county_lookup df to SQL table
 iowa_zips.to_sql('iowa_zips', engine)         # push iowa_zips df to SQL table
 {% endhighlight %}
-
-
-
-
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
