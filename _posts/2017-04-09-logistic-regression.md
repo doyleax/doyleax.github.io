@@ -50,6 +50,7 @@ With respect to logistic regression, what is the linear component? Here is a lit
 How do we get our link component? This link component links our linear component back to linear regression, and is called the logit. The logit is the *inverse* of the logistic function above.
 
 ![Link Component]({{ site.baseurl }}/images/logit_fcn.png)
+
 *The second line here is simply specifying what we are taking the natural log of in the logit equation on the first line.*
 
 In this function, the betas are the coefficients, the log of the odds ratios.
