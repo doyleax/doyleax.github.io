@@ -30,7 +30,6 @@ Probably the most infuriating part was this last part where the comma wasn't str
 
 So now that I've gone through everything that DOESN'T work, here's what actually will get the job done:
 
-For this, we'll be using the locale package:
 ```python
 import locale
 
