@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Merge DataFrames: Unique Rows from Two DataFrames"
+date:   2017-05-14
+categories: how-to
+---
 I am constantly trying to remember how to add a row into a dataframe only if it doesn't already exist. My indices will never match up and are irrelevant, so I struggle to figure out how to ignore the indexes on the dataframes.
 
 This post is for future me when I inevitably forget about the parameters of the Pandas merge function. I'm hoping I'll naturally Google some of the words here to lead me quickly to my answer.
