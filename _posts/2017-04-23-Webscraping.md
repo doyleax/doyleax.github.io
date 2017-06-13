@@ -44,5 +44,5 @@ for f in files:
   indeed.drop_duplicates(inplace=True)
 ```
 
-Check out my [portfolio]{https://doyleax.github.io/Portfolio/salaries.html) for the full webscraper code.
+Check out my [portfolio](https://doyleax.github.io/Portfolio/salaries.html) for the full webscraper code.
 
