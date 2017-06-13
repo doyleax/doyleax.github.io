@@ -14,9 +14,9 @@ Assuming you have an AWS account, go to the EC2 page. If you're on the EC2 Dashb
 
 ### Select Ubuntu
 ![Ubuntu]({{ site.baseurl }}/images/select_ubuntu.png)
-### Select t2.micro-- the only **free tier eligible** option, and then hit the **Next: Configure Instance Details**
+### Select t2.micro-- the only **free tier eligible** option
 ![Ubuntu]({{ site.baseurl }}/images/t2_micro.png)
-
+...and then hit the **Next: Configure Instance Details**
 #### You should be directed to a page that says **Step 3**. Don't change anything, but keep hitting **Next:** in the bottom right corner until you reach **Step 6: Configure Security Group**.
 ![Ubuntu]({{ site.baseurl }}/images/configure_instance.png)
 ![Ubuntu]({{ site.baseurl }}/images/security_group.png)
