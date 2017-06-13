@@ -17,5 +17,7 @@ As I have never built a nueral network, the modeling was a bit tough for me. I f
 To conclude my project, I ran a set of images of Boomer through my model to assess the percentages of each breed that were predicted. Turns out, it's pretty inconclusive. I guess if I really want to know, I should just fork over the $100. 
 
 
+Check out the whole capstone piece [here](https://doyleax.github.io/Portfolio/breed-classification.html).
+
 
 
