@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Calculating Distance Between Coordinate Points"
+date:   2017-04-30
+categories: how-to
+---
+
 For our fourth project, we worked in groups on the already closed Kaggle competition for Predicting West Nile Virus. The competition provided data on all of the traps located  throughout the neighborhoods of Chicago, along with the exact geographic coordinates, the date the trap was tested, the number of mosquitos in the sample, and the test results of whether or not the mosquitos have West Nile Virus.
 
 The additional data they provided described the weather report for each day a trap was tested, and then a separate dataset contained the dates and geographic coordinates where the Chicago of Public Health Department sprayed something in the hopes of preventing WNV. We were hoping that, through analysis, we could help make an informed decision to make the most strategic sprays in the city.
