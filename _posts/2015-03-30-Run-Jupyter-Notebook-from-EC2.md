@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Run Jupyter Notebook from AWS EC2"
-date:   2017-05-10
+date:   2017-04-30
 categories: jekyll update
 ---
 
