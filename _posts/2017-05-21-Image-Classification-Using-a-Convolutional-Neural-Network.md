@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Image Classification using Convolutional Neural Networks"
+date:   2017-05-21
+categories: how-to
+---
+
 To wrap up the course, each student creates a capstone project; something to demonstrate the knowledge gained over the past twelve weeks. We don't have many guidelines and are encouraged to be creative with our problem statement. 
 
 Recently, I adopted a puppy and was told its mother was a Boston Terrier, but that's all they know. I have since been to two separate vets who guess that my puppy, Boomer, might also be parts Boxer and/or Beagle. I have google image searched both Boston-Boxer and Boston-Beagle mixes and can see traces of him in both. However, many people seem pretty convinced of either Beagle or Boxer. My vet told me that for a cheap $100, I could find out the DNA, but since it's a dog and spending $100 on a DNA test won't provide much use other than being able to provide a concrete answer to the oft questioned 'What kind of dog is he?,' I figured I could end all suspicion through the creation of a neural network.
