@@ -5,12 +5,12 @@ div.transbox {
 /*//    margin-left: 250px;
 //    margin-right: 250px;*/
     /*padding-top:10px;*/
-    margin-top:7rem;
-    width: 75%;
+    margin-top:1rem;
+    width: 200px;
     /*background-color: #ffffff;*/
     padding-bottom:20px;
     background-color: rgba(255,255,255,0.8);
-    padding:1em;
+    padding:0.5em;
     display: inline-block;
     filter: alpha(opacity=60); /* For IE8 and earlier */
 /*//    padding:10px;*/
@@ -114,7 +114,9 @@ html {
 /*//  color: #fff;*/
   margin-top: 0;
 /*//  font-family: "Abril Fatface", serif;*/
-  font-size: 2rem;
+  /*font-size: 2rem;*/
+  font-size: 1.9rem;
+  text-align: center;
 }
 
 /* Sidebar nav */
@@ -771,7 +773,7 @@ body {
   /*max-width: 500px;*/
   padding: 0 10px;
   width: 70%;
-  margin-right: 0;
+  margin-right: 2em;
 }
 
 h1, h2, h3, h4, h5, h6 {
