@@ -5,12 +5,12 @@ div.transbox {
 /*//    margin-left: 250px;
 //    margin-right: 250px;*/
     /*padding-top:10px;*/
-    margin-top:1rem;
+    /*margin-top:1rem;*/
     width: 200px;
     /*background-color: #ffffff;*/
     padding-bottom:20px;
     background-color: rgba(255,255,255,0.8);
-    padding:0.5em;
+    /*padding:0.5em;*/
     display: inline-block;
     filter: alpha(opacity=60); /* For IE8 and earlier */
 /*//    padding:10px;*/
@@ -120,6 +120,9 @@ html {
 }
 
 /* Sidebar nav */
+.sidebar-about h3 {
+  margin:0;
+}
 .sidebar-nav {
   margin-top: 1rem;
 
