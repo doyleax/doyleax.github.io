@@ -7,6 +7,23 @@ categories: how-to
 
 A few things that I've come across from extensive googling have been game changers for me in Python programming. Check them out below:
 
+*Update* - newly added tricks are added to the top, and will be added as I discover them.
+
+- Storing variables:
+
+When you want to work across multiple jupyter notebooks, you can store your data. In the notebook where the data exists, run this command:
+
+```python
+%store df # where df is the name of your data
+```
+
+Then in whichever notebook you'd like to pull the data into, run this:
+```python
+%store -r df # -r probably stands for retrieve or something
+```
+
+After running that command, you can use the data in your new notebook.
+
 - Execution timing:
 
 ```python
