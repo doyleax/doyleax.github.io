@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jenny Doyle
+name: Jennifer Doyle
 
 # Short bio or description (displayed in the header)
 description: Data Scientist
@@ -88,5 +88,3 @@ exclude:
   - README.md
   - CNAME
   
-  
-comments: True
