@@ -3,6 +3,7 @@ layout: post
 title:  "Webscraping"
 date:   2017-04-23
 categories: jekyll update
+comments: true
 ---
 
 One of my favorite new skills to date is webscraping. In my last job, I had to use HTML and CSS frequently on our product to develop features and fix bugs. I transitioned to a database heavy position, and really missed working on the website. Webscraping served as a nice reminder as to how much I enjoyed my web development experience. With that said, please don't judge the appearance of my blog. I wish I had the time to spruce it up.
