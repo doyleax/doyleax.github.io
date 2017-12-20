@@ -3,6 +3,7 @@ layout: post
 title:  "Bayes and Monty Hall"
 date:   2017-05-07
 categories: how-to
+comments: true
 ---
 
 When learning about Bayesian Statistics in class, we discussed the Monty Hall problem: the gameshow has 3 doors and behind one of them is a car; the other two have goats. You can pick one door that you think the car is behind, and then Monty Hall will open one of the remaining two. 
