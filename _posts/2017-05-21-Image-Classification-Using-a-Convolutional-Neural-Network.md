@@ -3,6 +3,7 @@ layout: post
 title:  "Image Classification using Convolutional Neural Networks"
 date:   2017-05-21
 categories: how-to
+comments: true
 ---
 
 To wrap up the course, each student creates a capstone project; something to demonstrate the knowledge gained over the past twelve weeks. We don't have many guidelines and are encouraged to be creative with our problem statement. 
