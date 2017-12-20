@@ -3,6 +3,7 @@ layout: post
 title:  "SQL for updating Pandas DataFrame"
 date:   2017-03-26 21:55:09 -0400
 categories: how-to
+comments: true
 ---
 
 I'm fairly new to Python and even more so to Pandas, but I'm pretty experienced in SQL. As I encounter ever more issues in manipulating data in Pandas DataFrames, I find myself angrily thinking of how I could have solved each problem simply and quickly somehow using SQL on the df. 
