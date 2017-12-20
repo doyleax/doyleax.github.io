@@ -3,6 +3,7 @@ layout: post
 title:  "Calculating Distance Between Coordinate Points"
 date:   2017-04-30
 categories: how-to
+comments: true
 ---
 
 For our fourth project, we worked in groups on the already closed Kaggle competition for Predicting West Nile Virus. The competition provided data on all of the traps located  throughout the neighborhoods of Chicago, along with the exact geographic coordinates, the date the trap was tested, the number of mosquitos in the sample, and the test results of whether or not the mosquitos have West Nile Virus.
