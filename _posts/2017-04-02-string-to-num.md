@@ -3,6 +3,7 @@ layout: post
 title:  "Convert String to Number in Python"
 date:   2017-04-02
 categories: how-to
+comments: true
 ---
 
 While working on a project, I came across this issue where I had a string which was a number with commas. As it's stored as a string, it cannot be modified using int(string) or float(string) or .astype(float). I've tried them all. I've also tried removing the commas and then converting. No such luck.
