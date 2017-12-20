@@ -3,6 +3,7 @@ layout: post
 title:  "Merge DataFrames: Unique Rows from Two DataFrames"
 date:   2017-05-14
 categories: how-to
+comments: true
 ---
 I am constantly trying to remember how to add a row into a dataframe only if it doesn't already exist. My indices will never match up and are irrelevant, so I struggle to figure out how to ignore the indexes on the dataframes.
 
