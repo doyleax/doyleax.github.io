@@ -1,8 +1,10 @@
 ---
 layout: post
+comments: true
 title:  "Python & Jupyter Notebook Tricks"
 date:   2017-08-17
 categories: how-to
+
 ---
 
 __*Update*__ - newly added tricks are added to the top, and will be added as I discover them.
