@@ -3,6 +3,7 @@ layout: post
 title:  "Logistic Regression"
 date:   2017-04-09
 categories: jekyll update
+comments: true
 ---
 
 In this post, I'll talk about some of the basics of logistic regression, and why we would use this type of modeling over linear regression. To help illustrate these concepts, I'll use the Titanic dataset which can be found [here](https://www.kaggle.com/c/titanic/data).
