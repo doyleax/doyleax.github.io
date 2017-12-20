@@ -3,6 +3,7 @@ layout: post
 title:  "Run Jupyter Notebook from AWS EC2"
 date:   2017-05-28
 categories: how-to
+comments: true
 ---
 
 
