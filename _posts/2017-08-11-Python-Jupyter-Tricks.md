@@ -10,6 +10,13 @@ categories: how-to
 __*Update*__ - newly added tricks are added to the top, and will be added as I discover them.
 A few things that I've come across from extensive googling have been game changers for me in Python programming. Check them out below:
 
+- Increasing width of Jupyter notebook cells [(source)](https://github.com/jupyter/notebook/issues/1909):
+
+```python
+from IPython.core.display import display, HTML 
+display(HTML("<style>.container { width:100% !important; }</style>"))
+```
+
 - Storing variables:
 
 When you want to work across multiple jupyter notebooks, you can store your data. In the notebook where the data exists, run this command:
