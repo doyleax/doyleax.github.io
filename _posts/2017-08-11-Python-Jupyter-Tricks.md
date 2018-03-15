@@ -39,7 +39,20 @@ After running that command, you can use the data in your new notebook.
 %load_ext autotime
 ```
 
-This is exclusive to iPython/Jupyter notebook. In order to have the run time printed for each cell, simply run this once. It's super useful and you don't have to write %%time at the top of each cell.
+This is exclusive to iPython/Jupyter notebook. In order to have the run time printed for each cell, simply run this once. It's super useful and you don't have to write %%time at the top of each cell. The only annoying thing is that if the execution time was 0, it prints out an assertion error. I fixed this by editing the py file and erasing the assertion:
+
+```python
+filename = 'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\autotime.py'
+with open(filename, 'r') as file:
+    # read a list of lines into data
+    data = file.readlines()
+# remove line 25 with the assertion (found this from error message)
+data[25] = ''
+# write everything back
+with open(filename, 'w') as file:
+    file.writelines( data )
+```
+
 
 - Warning suppresion:
 
