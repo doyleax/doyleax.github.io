@@ -39,7 +39,24 @@ After running that command, you can use the data in your new notebook.
 %load_ext autotime
 ```
 
-This is exclusive to iPython/Jupyter notebook. In order to have the run time printed for each cell, simply run this once. It's super useful and you don't have to write %%time at the top of each cell. The only annoying thing is that if the execution time was 0, it prints out an assertion error. I fixed this by editing the py file and erasing the assertion:
+This is exclusive to iPython/Jupyter notebook. In order to have the run time printed for each cell, simply run this once. It's super useful and you don't have to write %%time at the top of each cell. The only annoying thing is that if the execution time was 0, it prints out this assertion error. 
+
+```python
+Error in callback <bound method LineWatcher.stop of <autotime.LineWatcher object at 0x000001852A822D68>> (for post_run_cell):
+
+---------------------------------------------------------------------------
+AssertionError                            Traceback (most recent call last)
+C:\ProgramData\Anaconda3\lib\site-packages\autotime.py in stop(self)
+     23         if self.start_time:
+     24             diff = time.time() - self.start_time
+---> 25             assert diff > 0
+     26             print('time: %s' % format_delta(diff))
+     27 
+
+AssertionError: 
+```
+
+I fixed this by editing the py file and erasing the assertion:
 
 ```python
 filename = 'C:\\ProgramData\\Anaconda3\\lib\\site-packages\\autotime.py'
