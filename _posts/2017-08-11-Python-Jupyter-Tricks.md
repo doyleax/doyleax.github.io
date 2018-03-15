@@ -70,6 +70,7 @@ with open(filename, 'w') as file:
     file.writelines( data )
 ```
 
+Or you could simply open the autotime.py file and delete the line manually.
 
 - Warning suppresion:
 
