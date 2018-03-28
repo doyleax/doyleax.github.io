@@ -39,6 +39,13 @@ After running that command, you can use the data in your new notebook.
 %load_ext autotime
 ```
 
+I think that autotime as an ipython-magic extension is being deprecated, so try the following:
+```python
+conda install -c conda-forge ipython-autotime
+import autotime
+```
+
+
 This is exclusive to iPython/Jupyter notebook. In order to have the run time printed for each cell, simply run this once. It's super useful and you don't have to write %%time at the top of each cell. The only annoying thing is that if the execution time was 0, it prints out this assertion error. 
 
 ```python
