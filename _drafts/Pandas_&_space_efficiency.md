@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Space Efficiency with Pandas DataFrames"
+title:  "2017-04-18-Space Efficiency with Pandas DataFrames"
 date:   2018-04-18
 categories: how-to
 ---
@@ -53,25 +53,28 @@ temp = df.select_dtypes(['integer','float'])
 # create a dictionary of the original dtypes of this numeric df
 original_dtypes = dict(temp.dtypes)
 
+# all the possible bit sizes for floats, ints
+numeric_dtypes = {'float': {}, 'int': {} }
+float_bits, int_bits = ['16', '32', '64'], ['8','16','32','64']
+
+for bit in float_bits:
+    numeric_dtypes['float'][bit] = [np.finfo("float"+bit).min,np.finfo("float"+bit).max]
+for bit in int_bits:
+    numeric_dtypes['int'][bit] = [np.iinfo("int"+bit).min,np.iinfo("int"+bit).max]
+    
+    
 for col in df.columns:
-  min_val = df[col].min()
-  max_val = df[col].max()
+    min_val = df[col].min()
+    max_val = df[col].max()
   
-  # find out whether this numeric column is int or float
-  num_type = re.match(r'[^0-9]+',str(original_dtypes[col])).group()
-  
-  # columns containing values within the following range qualify for an 8-bit dtype
-  if (min_val >= np.iinfo(num_type+'8').min) & (min_val <= np.iinfo(num_type+'8').max):
-    dtypes[col] = num_type + '8'
+    # find out whether this numeric column is int or float
+    num_type = re.match(r'[^0-9]+',str(original_dtypes[col])).group()
 
-  if (min_val >= np.iinfo(num_type+'16').min) & (min_val <= np.iinfo(num_type+'16').max):
-    dtypes[col] = num_type + '16'
-
-  if (min_val >= np.iinfo(num_type+'32').min) & (min_val <= np.iinfo(num_type+'32').max):
-    dtypes[col] = num_type + '32'
-  
-  if (min_val >= np.iinfo(num_type+'64').min) & (min_val <= np.iinfo(num_type+'64').max):
-    dtypes[col] = num_type + '64'
+    for bit in numeric_dtypes[num_type]:
+        if (min_val >= numeric_dtypes[num_type][bit][0]) & (min_val <= numeric_dtypes[num_type][bit][1]):
+            dtypes[col] = num_type + bit
+            break  # to ensure that the smallest possible bit size gets recorded in the dtype dict, break the loop here
+      
 ```
 
 
