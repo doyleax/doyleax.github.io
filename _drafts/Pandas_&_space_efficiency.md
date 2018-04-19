@@ -14,7 +14,11 @@ The general way to change a column's dtype is by running the following:
 ```python
 df[col] = df[col].astype(dtype)
 ```
-Above, dtype will be one of the following: ['object','category','int8','int16','int32','int64','float8','float16','float32','float64']. Note that there are 4 different sizes that numeric columns could be for both integers and floats.
+Above, dtype will typically be one of the following: ['object','category','int8','int16','int32','int64','float16','float32','float64']. Note that there are a few different sizes that numeric columns could be for both integers and floats.
+
+First thing to check is the 
+
+
 
 While you can change your dtype with the above command, this takes far too long on a large df. Instead, we will be going through to determine which dtype each column should be converted to for optimal memory usage by creating a dictionary of column names and dtype.
 
