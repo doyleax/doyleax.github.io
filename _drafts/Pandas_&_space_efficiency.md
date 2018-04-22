@@ -16,7 +16,11 @@ df[col] = df[col].astype(dtype)
 ```
 Above, dtype will typically be one of the following: ['object','category','int8','int16','int32','int64','float16','float32','float64']. Note that there are a few different sizes that numeric columns could be for both integers and floats.
 
-First thing to check is the 
+First thing to do is check the dataframe info. This will detail the dtypes of the columns, along with the total size of your table.
+
+```python
+df.info()
+```
 
 
 
