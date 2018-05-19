@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2017-05-18-Space Efficiency with Pandas DataFrames"
+title:  "2018-05-18-Space Efficiency with Pandas DataFrames"
 date:   2018-06-18
 categories: how-to
 ---
@@ -367,4 +367,15 @@ Turns out that all but the first ID column are categorical. Re-loading in the da
 
 
 
+### De-duping
+
+Although listed last, this should probably always be your first step when loading data. Oftentimes, datasets can be flooding with duplicate rows, and getting rid of them is easy.
+
+```python
+df.drop_duplicates(inplace=True)
+```
+
+### Conclusion
+
+Hopefully using all of these techniques serves to be incredibly useful for those of you working with large datasets in the hopes of speeding up processing. 
 
