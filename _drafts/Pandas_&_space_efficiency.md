@@ -7,9 +7,9 @@ categories: how-to
 
 # Space Efficiency with Pandas DataFrames
 
-Lately I've been working with enormous datasets (10s of millions of rows) with anywhere from tens to hundreds or even thousands of features. What I have found to be absolutely critical is cutting down on as much space as possible. Assigning dtypes to your dataframe is the best thing you can do.
+Lately I've been working with enormous datasets (10s of millions of rows) with anywhere from tens to hundreds or even thousands of features. What I have found to be absolutely critical is cutting down on as much space as possible. Assigning dtypes to your dataframe is the best thing you can do for performance enhancement.
 
-I'll be using a dataset that can be downloaded (here)[https://www.kaggle.com/donorschoose/io]. The file is "projects.csv."
+I'll be using a data set on US Census data, found at the link below.
 
 ```python
 import pandas as pd
@@ -102,9 +102,12 @@ dtypes: int64(69)
 memory usage: 1.3 GB
 ```
 
+
+### Numeric Columns
+
 All int64 columns. An integer column can be 8, 16, 32, or 64 bits, while float columns can be 16, 32, or 64 bits. Know that a float16 column is the same size as an int16 column.
 
-How do we know the optimal size for our numeric columns? Numpy has iinfo, finfo (integer, float info) attribute that can tell us the range which a column's values should fall within for each size. Below, we will use this to create a reference that will give us all of the ranges for each bit size.
+How do we know the optimal size for our numeric columns? Numpy has iinfo, finfo (integer, float info) attributes that tell us the range which a column's values should fall within for each size. Below, we will use this to create a reference that will give us all of the ranges for each bit size.
 
 ```python
 # all the possible bit sizes for floats, ints
@@ -137,7 +140,7 @@ Now that we have this information, let's check out each column and see which siz
     
 ``` python    
 # grab all columns that are either integer or float dtypes
-temp = df.select_dtypes(['integer','float'])
+temp = df.select_dtypes(include=['integer','float'])
 
 # create a dictionary of the original dtypes of this numeric df
 original_dtypes = dict(temp.dtypes)
@@ -162,6 +165,7 @@ for col in df.columns:
 We already have the old dtypes printed above (after df.info()) and they're all int64. So let's check out what the new proposed dtypes are:
 
 ```
+dtypes
 {'caseid': 'int16',
  'dAge': 'int8',
  'dAncstry1': 'int8',
@@ -233,6 +237,9 @@ We already have the old dtypes printed above (after df.info()) and they're all i
  'iYearwrk': 'int8'}
 ```
 From a quick glance, I can see that there are no longer any int64 columns. 
+
+
+### Converting Column Data Types
 
 Now that we know what dtypes to switch each column through, I'll note two options to change the dtype.
 
@@ -333,12 +340,17 @@ By specifying dtypes, we were able to shrink the df down from 1.3GB to 164.1 MB.
 
 
 
-
-
 ### Categorical Columns
 
-The first thing you should do is check if you have categorical variables. The object dtype sucks up the most space. If you can pinpoint these and convert them to the 'category' dtype, then you'll drastically reduce the size of your df.
-Typically, less than 40% of the total values in a column should be distinct in order to convert it to a categorical column.
+This dataset used above doesn't have any object columns, which suck up the most space. To see how converting an object column to a 'category' type can save space, download NYC Bus data from [Kaggle](https://www.kaggle.com/stoney71/new-york-city-transport-statistics). It's a pretty big file, so it will take a bit of time to download. 
+
+```python
+file = "
+```
+
+If you can pinpoint object columns that should actually be categorical, you'll drastically reduce the size of your df by converting them. However, many numerical columns can also be categorical. In fact, if you run the below code on the first df to determine whether a column should be categorical, you'll find that all columns aside from the ID column are, in fact, categorical. However, in this case, converting the columns to category doesn't affect the end df size at all (because they're all int8, which is pretty small).
+
+Typically, less than 40% of the total values in a column should be distinct in order to convert it to a categorical column. Otherwise, it could potentially be less efficient to perform a categorical conversion on the column.
 
 ```python
 n = df.shape[0]    # get the number of rows in the df
@@ -351,7 +363,8 @@ for col in df.columns:
         dtypes[col] = 'category'
 ```
 
-### Numeric Columns
+Turns out that all but the first ID column are categorical. Re-loading in the data with the new dtypes doesn't make it any smaller in this case, but also doesn't make it any bigger. Converting to categorcial is far more useful when a column is of the 'object' type, but since this particular dataframe didn't have any 'object' columns, I wanted to at least show how to go about converting to 'category.'
 
-When you load data into a dataframe, it usually will give you the largest possible dtype for numeric columns, either int64 or float64. Even though a binary feature would be ideal in an 8 bit dtype, it bloats it into 64 bit, taking up more space than necessary.
+
+
 
