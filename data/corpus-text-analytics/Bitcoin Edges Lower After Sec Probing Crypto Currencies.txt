@@ -1,0 +1,21 @@
+﻿Bitcoin slipped on Wednesday following news that the U.S. Securities and Exchange Commission is probing the cryptocurrency market.
+
+The Wall Street Journal reported Wednesday evening ET that, as part of that investigation, the SEC has issued "scores of subpoenas" to obtain information from technology companies and advisers tied to the digital currency markets.
+
+The commission is looking into the structuring of initial coin offerings, which aren't required to adhere to the strict regulations that apply to public offerings, the Journal said, citing sources.
+
+Initial coin offerings allow cryptocurrency start-ups to raise funds through the issue of digital tokens.
+
+Bitcoin initially edged lower by around 2 percent following the report, but pared some of those losses during afternoon Asian trade.
+
+The digital currency last traded at $10,325.08, according to CoinDesk's bitcoin price index, which tracks prices from digital currency exchanges Bitstamp, Coinbase, itBit and Bitfinex.
+
+Meanwhile, price changes in ethereum, the second largest cryptocurrency by market capitalization, saw a similar story. The virtual currency slipped by less than 2 percent before clawing back some losses to trade at $859.06, data from CoinDesk showed.
+
+SEC has warned in past, but in a limited way
+
+In January, SEC Chairman Jay Clayton and other officials said in a statement that even though the agency pursues violations in the space, there remains a "substantial risk" that it would be unable to recover investments for those who lost money.
+
+Last December, Clayton wrote in another statement that Main Street investors ought to demand clear answers if they decided to invest in ICOs or cyptocurrency-linked products.
+
+"A number of concerns have been raised regarding the cryptocurrency and ICO markets, including that, as they are currently operating, there is substantially less investor protection than in our traditional securities markets, with correspondingly greater opportunities for fraud and manipulation," Clayton warned.

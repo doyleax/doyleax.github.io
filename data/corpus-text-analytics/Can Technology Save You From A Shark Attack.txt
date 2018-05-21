@@ -1,0 +1,62 @@
+﻿With shark attacks rising in countries such as Australia, some say the most effective way to prevent them could be personal repellent devices. Do they work?
+
+In mid-January this year, during the heat of the Australian summer, shark scientist Charlie Huveneers set off towards the Neptune Islands, near the mouth of South Australia’s Spencer Gulf. Here, about 250km (156 miles) south-west of Adelaide, is one of the Australia’s largest aggregations of great white sharks, and also the centre of the nation’s cage-diving tourism industry, which brings in around AUS$8m (£4.5m).  
+
+Over 18 days, Huveneers – who heads the Southern Shark Ecology Group at Adelaide’s Flinders University – tested a series of commercially available shark deterrent devices to determine their effectiveness in repelling the ocean’s most feared predator. Over many long days at sea, his team observed sharks from its boat and with cameras below the waves. During 300 trials, they studied sharks approaching potential prey some 1,500 times.
+
+The work they are doing to test repellents is vital. Shark attacks are increasing in Australia, and more of these devices are being sold than ever before, but very few models have been independently tested to match manufacturers’ claims.
+
+“Personal shark repellent or deterrent devices are the ‘holy grail’ of shark bite prevention, but the efficacy of some of the most popular products is questionable, and most have never been subjected to scientifically rigorous independent testing,” says Carl Meyer, a shark ecologist at the Hawaii Institute of Marine Biology in the US.
+
+These devices can be beneficial, as long as people understand their level of effectiveness and how much they actually reduce the risk of attacks, Huveneers says. He warns that some devices “might create a false sense of security and lead people to put themselves in riskier situations”.
+
+While shark attack fatalities in Australia have remained fairly constant, at an average of around one a year, the number of bites per year doubled when researchers compared the period between 2000 to 2015 with 1990–2000. Specific clusters of attacks have led to public outcries for the authorities to do more. In Western Australia (WA), 15 fatalities since 2000 led the state government last year to offer a controversial AUS$200 (£112) rebate towards purchasing a AUS$750 (£421) electrical repellent – the Shark Shield FREEDOM7. In November, they put another AUS$200,000 (£112,000) towards this scheme.
+
+But do these devices actually work? Huveneers says he supports the WA government for selecting one of the only repellents independently tested by scientists. As reported in the journal PLoS ONE in 2016, he was part of a team including University of Western Australia scientists, that tested it in South Africa. By attaching the electrodes to baits in waters abundant with white sharks, they showed the FREEDOM7 repelled them 90% of the time, but was only effective to about 1m out from the device.  
+
+
+The Shark Shield takes advantage of the fact that sharks have sensory organs around their snouts called ampullae of Lorenzini, which enable them to detect prey via the weak electric fields they emit. But an artificial electrical field can be used to overwhelm the organs, causing the shark discomfort. This is what a Shark Shield does, by generating a field between two electrodes on an antenna. The charge is produced by a unit worn on the swimmer’s ankle, with the antenna and electrodes trailing behind.
+
+It is one of several repellent devices that use an electric field. And while there are other approaches, Meyer agrees that electrical repellents have the greatest potential.
+
+“Sharks have a highly sensitive electroreceptive system that may produce an avoidance reaction if over-stimulated by a man-made electric field,” he says. “Widely-spaced dipoles can effectively shroud your entire body in an electric field.” However, a problem with many existing products is that the field covers little more than a diameter of 1m, meaning it can’t protect the whole body.
+
+The repellents recently tested at the Neptune Islands included several untested electrical devices, magnetic deterrents, and a kind of surfboard wax meant to mask the smell of the surfer with natural products such as clove oil and cayenne pepper.
+
+The idea behind magnetic deterrents – such as wristbands containing strong magnets produced by a company called Sharkbanz – is that they work in a similar way to the Shark Shield, creating a field that overwhelms a shark’s ampullae of Lorenzini.
+
+While the theory is sound, a magnetic field becomes very weak even just a few centimetres from the device, says Meyer. “A shark might, or might not, avoid eating your wrist-worn device, but the rest of your body is certainly unprotected.”
+
+Other approaches have been to develop devices that produce the sounds of hunting killer whales (a predator of sharks), or wetsuits and surfboards with camouflage that mimics the banded patterns of venomous and unappealing prey, such as sea snakes.
+
+Some research suggests that auditory repellents are ineffective, or sharks quickly get used to them.
+
+“Shark hearing is optimal at low frequencies and poor-to-non-existent at the higher frequencies typical of orca calls,” says Meyer. Meanwhile, research in Queensland has revealed that sea snakes are in fact very commonly found in the stomachs of tiger sharks, so perhaps not so unappetising.
+
+Huveneers adds that surfers and surfboards, seen by sharks cruising along the sea bottom, may merely appear as dark silhouettes at the surface, so colours and patterns are often irrelevant.
+
+Chemical repellents have also been created and trialled over the years, with one currently marketed product being an aerosol spray called Anti-Shark 100, made by Shark Tec, which says it is “derived from putrefied shark”. 
+
+There is some evidence that sharks steer clear of the ‘necromone’ chemicals produced by other decomposing sharks, Huveneers says. “The reason for sharks to be deterred by this smell is unknown, but from an evolutionary perspective, it makes sense to leave an area where a conspecific [same specis] has recently died, as it might indicate danger.”
+
+Still, while many chemicals are irritating or unpleasant to sharks, they dissipate rapidly into the water column, he says, limiting their effectiveness.  
+
+“You’d have to see the shark coming and then release this aerosol into the water, and a lot of sharks prefer sneak attacks,” says Blake Chapman, a shark researcher at the University of Queensland and author of Shark Attacks: Myths, Misunderstandings and Human Fear. “So, having a device where you have to see the shark first, and then release some sort of cue that it doesn’t like and leave… I can’t imagine that it’s going to buy you a lot of time.” 
+
+Chapman argues that no repellent device can ever be entirely effective. “I wouldn’t put my life in the hands of any of these devices,” she says. “It comes down to a shark’s motivation. If you have a 3m to 5m great white, bull or tiger shark that’s starving, I can almost guarantee that nothing we’ve discovered, and probably nothing we will discover for some time, will deter that shark.”
+
+She also questions whether it’s likely that a large shark will abort an attack, a metre out from a prey item, once it has committed to swimming at high speed towards it.
+
+Huveneers admits that repellents are unlikely to stop highly motivated sharks, but says the South African trials showed that sharks are highly manoeuvrable and can and will abort attacks at very short distances from potential prey.
+
+He does, however, note that people need to be aware that repellent devices are often only effective in specific locations, for specific activities. Therefore, a device that may show some use for repelling white sharks from attacking surfers off the coast of Cape Town might be completely ineffective at protecting scuba divers from lurking bull sharks in Sydney Harbour.
+
+“I see the refinement of electrical-current based devices as the best bet for effective personal shark repellents, but I don't see any device ever being 100% effective,” agrees Meyer.
+
+Chapman says that in the future current technologies may evolve into more effective means of stopping investigative bites, but argues that the most effective tool is education. “People taking time to understand these animals and the situation will alleviate so many more events than any technology could… Just be smart about where you swim,” she says.
+
+Research is, for example, uncovering clues on shark movement patterns that might reveal what times of the day and year are best for reducing the risks associated with various activities in the sea.
+
+Despite the increase in shark incidents in WA in recent years, some estimates suggest the chance of being bitten by a shark off Perth is still only about one in 30 million. To put that into perspective, you’re about 100 times more likely to be struck by lightning.
+
+Nevertheless, Chapman says that if shark repellent devices allow people to feel comfortable entering the water, then it’s already a great outcome. “These things may or may not work, but the chances of being bitten is so small, that if it’s giving you peace of mind to go out there and do your activity then it’s doing its job.”

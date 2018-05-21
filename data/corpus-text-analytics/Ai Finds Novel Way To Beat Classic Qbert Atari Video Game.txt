@@ -1,0 +1,33 @@
+﻿Atari video game Q*bert has been beaten by an Artificial Intelligence program, which exploited a loophole that had never previously been discovered.
+
+The AI program used trial and error to uncover a quirk in the game's code that let it score a huge amount of points.
+
+No human player of Q*bert is believed to have ever uncovered the tricks it used to win.
+
+The AI program was let loose on the video game by German researchers who are developing code that can learn.
+
+Suicide strategy
+Video games have proved popular with AI researchers because they are limited worlds in which success (high scores) and failure (losing the game) are easy to assess. This can help refine AI programs because those that score the most points and lose the least are likely to be better learners.
+
+Patryk Chrabaszcz, Ilya Loshchilov and Frank Hutter from the University of Freiburg let several basic AI programs loose on classic Atari video games as part of work on what are known as "evolutionary algorithms".
+
+As the name implies this involves generating lots of algorithms, seeing which ones perform best and then mutating or changing them in small ways to see if they get better or worse.
+
+These evolutionary methods stand in contrast to another widely used approach known as "deep reinforcement learning" that mimic biological neural networks and allow them to learn for themselves. The best known of these systems is Google's Deep Mind.
+
+Different strategies
+In Q*bert, players are presented with a pyramid made of cubes on which they must jump around. Landing on the top of a cube changes its colour. The player must change all the cubes' colours without being caught by the game's enemies.
+
+Rather than the original, the researchers used an updated version of the game, and seven others, to make it easier for their AI creation to try out different strategies.
+
+On Q*bert, said the researchers, the AI code found two "particularly interesting solutions".
+
+One revolved around an in-game bug which saw the AI-controlled player jump from cube to cube seemingly at random. However, they found, this caused the cubes to start blinking and rewarded the player with a huge amount of points.
+
+A video posted by Mr Chrabaszcz shows the AI-controlled player getting lots of points in only 10 minutes.
+
+Warren Davis, who worked on the original arcade version of Q*bert, said he was not familiar with the ported code but added; "This certainly doesn't look right, but I don't think you'd see the same behaviour in the arcade version."
+
+Another novel strategy involved endlessly tempting Q*bert to commit suicide. Each time this happened the program received enough points for another life so it could repeat the cycle.
+
+In their research paper, the team said the success shown by their "basic" algorithm showed the promise of this branch of AI and could be "considered as a potentially competitive approach to modern deep reinforcement learning algorithms".

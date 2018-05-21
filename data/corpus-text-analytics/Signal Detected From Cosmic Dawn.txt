@@ -1,0 +1,49 @@
+﻿Glass may not seem an obvious material for a bone replacement. But UK surgeons are finding that bioglass not only is stronger than bone: it can bend, bounce and even fight infection.
+
+In 2002, Ian Thompson, a specialist in facial reconstruction at King’s College, London, received an urgent phone call. A patient in his late 20s had been struck by an out-of-control car mounting the pavement. The impact had sent him catapulting over the bonnet of the car, smashing his face and shattering the fragile orbital floor – the tiny bone, no more than 1mm thick, which holds the eyeball in place in the skull.
+
+“Without the orbital floor, your eye moves backwards into the skull, almost as a defensive mechanism,” Thompson explains. “But this results in blurred vision and lack of focus. This patient had also lost the ability to perceive colour. His job involved rewiring aircraft and as he could no longer detect a red wire from a blue one, he’d barely been able to work in three years.”
+
+The accident had happened three years earlier. Since then, surgeons had desperately tried to reconstruct the bony floor and push the eye back into position, first using material implants and then bone from the patient’s own rib. Both attempts had failed. Each time, infection set in after a few months, causing extreme pain. And now the doctors were out of ideas.
+
+Thompson’s answer was to build the world’s first glass implant, moulded as a plate which slotted in under the patient’s eye into the collapsed orbital floor. The idea of using glass – a naturally brittle material – to repair something so delicate may seem counterintuitive.
+
+But this was no ordinary glass.
+
+“If you placed a piece of window glass in the human body, it would be sealed off by scar tissue, basically wobble around in the body for a while and then get pushed out,” says Julian Jones, an expert in bioglass at Imperial College London. “When you put bioglass in the body, it starts to dissolve and releases ions which kind of talk to the immune system and tell the cells what to do. This means the body doesn’t recognise it as foreign, and so it bonds to bone and soft tissue, creating a good feel and stimulating the production of new bone.”
+
+For Thompson, the results were immediate. Almost instantaneously, the patient regained full vision, colour and depth perception. Fifteen years on, he remains in full health.
+
+Thompson has gone on to use bioglass plates to successfully treat more than 100 patients involved in car or motorcycle accidents. “Bioglass actually works even better than the patient’s own bone,” Thompson says. “This is because we’ve found that it slowly leaches sodium ions as it dissolves, killing off bacteria in the local environment. So, quite by chance, you have this mild antibiotic effect which eliminates infections.”
+
+Cutting edge
+
+Bioglass was invented by US scientist Larry Hench in 1969. Hench was inspired by a chance conversation on a bus with an army colonel who recently had returned from the Vietnam War. The colonel told Hench that while modern medical technology could save lives on the battlefield, it could not save limbs. Hench decided to shelve his research into intercontinental ballistic missiles– and instead work on designing a bionic material which would not be rejected by the human body.
+
+Hench ultimately took his research to London, and it has been in Britain where some of the most revolutionary bioglass innovations are being made in fields from orthopaedic surgery to dentistry.
+
+Over the last 10 years, surgeons have used bioglass in a powdered form, which looks and feels like a gritty putty, to repair bone defects arising from small fractures. Since 2010, this same bioglass putty has hit the high street as the key component in Sensodyne’s Repair and Protect toothpaste, the biggest global use of any bioactive material. During the brushing process, the bioglass dissolves and releases calcium phosphate ions which bond to tooth mineral. Over time, they slowly stimulate regrowth.
+
+But many scientists feel that the current applications of bioglass are barely scratching the surface of what could be possible. New clinical products are being developed which could revolutionise bone and joint surgery like never before.
+
+Sitting in his office in Imperial College’s Department of Materials, Jones is holding a small, cube-shaped object he’s dubbed ‘bouncy bioglass’. It’s similar to the current bioglass but with a slight twist: subtle alterations in the chemical composition mean it’s no longer brittle. Instead it bounces,“like a kid’s power ball” as Jones describes it, and it’s incredibly flexible.
+
+The point of this is that it can be inserted into a badly broken leg and can support both the patient’s weight and allow them to walk on it without crutches, without requiring any additional metal pins or implants for support. At the same time, the ‘bouncy bioglass’ also will stimulate and guide bone regrowth while slowly, naturally assimilating into the body.
+
+“To regenerate large pieces of bone, for example in a really big fracture, it’s very important to be able to put weight on your leg,” Jones says. “And it’s really important that the bio-implant in your leg is able to transmit the force from your weight to the bone cells, like a signal. Our body makes its own bone in the architecture that it’s in, because the cells feel the mechanical environment. So to grow back a big piece of bone you need to be able to transmit the right signals to them. The reason why astronauts in space lose bone mass is because without gravity, the cells aren’t receiving the same information as they do on Earth.”
+
+Further alterations to the chemical makeup of bioglass produce a different form which is much softer and has an almost rubbery feel. It feels almost like a piece of squid at a seafood restaurant. This bioglass is designed for possibly the holy grail of orthopaedic surgery: cartilage repair.
+
+Right now, surgeons attempt to repair damaged cartilage in arthritic hips or damaged knee joints with a fiddly procedure called microfracture. This involves smoothing over the damaged area to expose the bone underneath, then pricking it to release stem cells from the bone marrow which stimulate repair. But this results in scar cartilage and within a few years, as many athletes have found, the original problem returns.
+
+As a solution, Jones is looking to produce bioglass which can be 3D-printed and then slotted into any hole in the cartilage. For the cells to accept it, the material must retain all the natural properties of cartilage. To test its effectiveness, Jones uses a simulator that has human knee joints from cadavers donated for medical research.
+
+“We simulate the walking action, bending, all the things a knee would do, and make sure that the bioglass actually preserves the rest of the joint and behaves as it should do,” he says. “If that works then we’ll proceed to animal and then clinical trials.”
+
+This same bioglass could find an additional use in aiding people with chronic back pain due to herniated discs. At the moment surgeons treat this by replacing the dysfunctional disc with a bone graft which fuses the vertebrae in the back together. But while this takes away the pain, it results in a considerable loss in mobility. Instead, a bioglass implant could be printed and simply inserted to replace the faulty disc.
+
+“It seems the obvious thing to do,” Jones says. “So far nobody has been able to replicate the mechanical properties of cartilage synthetically. But with bioglass, we think we can do it.
+
+“We’ve just got to prove that we can. If all goes well and we pass all the necessary safety tests, it could reach the clinic in 10 years.”
+
+Using man-made materials which can fuse to the body may seem far-fetched – but it is appearing to be a more and more likely component of future medicine. Already, millions of people brush their teeth with it. And that may just be the start.

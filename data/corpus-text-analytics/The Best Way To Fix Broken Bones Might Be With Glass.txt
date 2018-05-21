@@ -1,0 +1,43 @@
+﻿Machines are talking about you behind your back.
+
+So reads a notice on the wall at Hello, Robot: Design Between Human and Machine – an exhibition which could change the way you think about automatons. The show’s already been a big hit in Vienna, Austria. This summer it travels to Winterthur, in Switzerland, then on to Lisbon in Portugal. Until April you can see it in Belgium, at Ghent’s excellent Design Museum.
+
+Like all the best exhibitions, visitors are likely to still be thinking about it months, maybe even years from now. It isn’t merely science fiction. It’s about the here and now.
+
+“In recent years, robotics has found its way into our everyday lives, changing them in fundamental ways,” reads the introduction to the show. “Design has a central role to play in this process, for it is designers who shape the interfaces between humans and machines.”
+
+“The debate about artificial intelligence has oscillated between utopian and dystopian visions, between the hope of a better, technologically advanced world and the fear of disempowerment. In this context, we are once again confronted with the question of the designer’s responsibility.”
+
+The term ‘robot’ was coined by a Czech playwright called Karel Capek, in 1920, in his work Rossum’s Universal Robots. The term comes from the Czech word “robota”, meaning forced labourer or serf. The plot of Capek’s play has become archetypal, spawning countless imitators: an army of mechanical slaves rise up and overthrow their human masters.
+
+Attitudes to artificial life and intelligence have always oscillated between fear and fascination. Take this week’s frenzy after a viral video showed a dog-like robot from Boston Dynamics displaying it’s comewhat creepy ability to open doors. Cinema has played a crucial role in shaping our shifting attitude to robots, from mechanical humanoids in Fritz Lang’s Metropolis (1927) to the sinister computer in Stanley Kubrick’s 2001 – A Space Odyssey (1968). Much of the fiction including robots portrays them as mutinous or catastrophic creations; it’s easy to understand why we might be wary of the next robot frontier.
+
+As the Hello, Robot exhibition shows, today’s robots don’t always look human, but they can still perform all sorts of human functions. They’re all around us, and they’re already reconfiguring the world we live in. From drones to smartphones, from Apple’s Siri to Amazon’s Alexa, robots are already doing a lot of the things we can do, except now they’re often doing them better. Our current Martian explorer is not a human but a machine: Nasa’s Curiosity Rover is roaming the Red Planet’s surface, sending selfies back to Earth.
+
+Clearly, this is only the beginning. Driverless cars are almost upon us. The so-called ‘internet of things’ will transform your home into a machine with a mind of its own. So, we are going to have to get more and more used to robots sharing our daily lives.  
+
+But what are the considerations when it comes to their design? The functional capabilities and societal implications of a robot designed to be in the home quickly become irrelevant if it transpires that nobody wants to buy it, let alone look at it or interact with it.
+
+Like cars and trains and washing machines, robots aren’t just scientific – they’re aesthetic creations, too. As with any other gizmo, they’re at the mercy of designers, who strive to make them not just more efficient but more attractive and appealing with every iteration. “It is in essence a design issue,” says Fredo de Smet, one of the show’s curators. “Design has an essential role in the way we embrace technology in our future society.”
+
+A good example is the drone, already well established for military and surveillance use and now used for all kinds of things, from disaster recovery to wedding photography. Trouble is, a lot of people tend to think of drones as sinister. They’re worried they’ll invade our privacy. Their construction often doesn’t help – angular, metallic, drones often resemble predatory insects. But what if we made drones out of curvy, pink plastic? There’s one in this exhibition. It’s only a prototype, but it could be the shape of things to come – subtle, aesthetic tweaks that aim to make these autonomous aerial robots more approachable.
+
+The tweaks can be simple yet powerful. We’re already used to robots with friendly female voices. When Vecna Robotics, supported by the US Army, created a robot that could lift and carry troops injured in warzones, the company’s designers decided to give it a teddy bear’s face that would comfort wounded soldiers.
+
+One exhibit in the show is a group of products aimed at helping future parents in raising ‘robotic natives’ – the next generation. It includes a robotic arm that can feed a child a bottle. The arm comes with a fuzzy dragon suit to conceal its machinery and a ‘kill switch’ should parents want to immediately shut down the robotics in their child’s nursery.
+
+Another item, Musio, is an educational and social robot, designed to interact with humans of all ages and assist in the home. Its artificial intelligence (AI) capabilities means it is constantly learning and adapting to its surroundings. This time, the design firm behind this robot, AKA, seems to have taken its cue from fiction. Marketed as a ‘friend,’ Musio has been given the look of a character from the film Monsters, Inc. Its body is shaped like a cuddly toy, its LCD display shows two wide, limpid, Disney-esque eyes that are immediately disarming. A separate display portrays a heart.
+
+Also in this exhibition, you get a chance to play with a robotic baby seal called Paro. These fake pets were handed out to Japanese survivors of tsunamis. They were cheaper than real pets, easier to manage, and apparently just as comforting.
+
+The conclusion of this engrossing, disconcerting show is that humans and robots are already merging, and the idea of humanity and technology as two separate entities will eventually become obsolete. Humans have created mechanical add-ons since the first armour and spectacles were invented. Now we are creating exoskeletons to enhance our natural capabilities and putting and implanting chips beneath our skin that double as keys and passcodes.
+
+But if we are to embrace robotics to such an extreme that it become part of our own selves, the role of the designer in helping us get to that point will become more and more important.
+
+The challenge for designers is to create robots we want to live with – androids that seem like friends, not foes. We’ve already learned to love our smartphones. Now designers are getting started on every other aspect of our future lives: Anouk Wipprecht has designed a robotic ‘Spider Dress’ which protects your personal space; Leka is a new smart toy that reacts to touch, voice and movement (it’s proved especially successful with autistic children – it can even play hide-and-seek).
+
+The technology behind these inventions is impressive, but it’s good design that makes them desirable. Wipprecht’s ‘Spider Dress’ looks stunning – Leka is cute and lovable, a transparent ball with big bug eyes. As Steve Jobs proved at Apple, it’s not enough to give the public a device that will improve their daily lives. It has to be a thing of beauty, too.
+
+Robots are already smarter than we are – bad design is the only thing that’s held them back. It’s now 20 years since IBM’s Deep Blue computer defeated world chess champion Garry Kasparov; in 2016, Google’s AlphaGo beat the Go world champion, Lee Sedol. The one thing that’s still missing is the pleasure of human contact. Once designers can replicate the sensation of playing against another human being, the triumph of the robots will be complete.
+
+Designers began by assuming that robots would have to mimic the human body (Robby the Robot in the 50s sci-fi film, Forbidden Planet, is a classic case in point). It’s taken the best part of a century for designers to realise that robots don’t need to seem human to share our world. On the contrary, they need to fade into the background, and become part of the furniture. Today’s robots still seem like machines pretending to be humans. The really scary thing about tomorrow’s robots is, you probably won’t even know they’re there.
