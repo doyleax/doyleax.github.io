@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "2018-05-18-Space Efficiency with Pandas DataFrames"
+title:  "Space Efficiency with Pandas DataFrames"
 date:   2018-06-18
 categories: how-to
 ---
-
-# Space Efficiency with Pandas DataFrames
 
 Lately I've been working with enormous datasets (10s of millions of rows) with anywhere from tens to hundreds or even thousands of features. What I have found to be absolutely critical is cutting down on as much space as possible. Assigning dtypes to your dataframe is the best thing you can do for performance enhancement.
 
