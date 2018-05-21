@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "2018-05-22-Unsupervised-NLP-Text-Analytics"
+title:  "Text Analytics & Unsupervised NLP"
 date:   2018-05-22
 categories: how-to
 ---
 
-# Unsupervised Text Analytics
+# Text Analytics
 
 This article will run through unsupervised text analytics using Python. The corpus (a collection of text, documents) we will be using is made up of 47 news articles from various online sources. The set is available for download in my github repository.
 
