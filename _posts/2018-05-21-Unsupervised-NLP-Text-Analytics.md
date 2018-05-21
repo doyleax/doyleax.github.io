@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Text Analytics & Unsupervised NLP"
-date:   2018-05-22
+date:   2018-05-21
 categories: how-to
 ---
 
@@ -241,8 +241,8 @@ for table_name, title in zip(['unigrams_raw','unigrams_clean','unigrams_stem'],[
 ![Bigrams]({{ site.baseurl }}/images/bigrams.png)
 ![Trigrams]({{ site.baseurl }}/images/trigrams.png)
 
+Now we've got a clear picture as to the importance of using stop words. Each raw chart presents the noise, while clean and stemmed charts show how we can focus better on the more important words. 
 
+When you do unsupervised problems like this, you'll probably have far more data and a better idea of what words are noise. Just keep in mind that removing words will affect the outcome of your n-grams (bi gram and higher). Words that weren't written side by side might now appear next to each other since a word in between them was a stop word, and as a result, removed. A solution for this is to analyze bi, tri and higher grams based on the raw text alone, as opposed to your clean and stemmed lists.
 
-
-
-
+This wraps up the first part of three articles focused on text analytics and unsupervised NLP. A link will be included once part two is complete.
