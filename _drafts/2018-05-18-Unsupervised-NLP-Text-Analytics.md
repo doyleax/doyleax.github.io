@@ -119,4 +119,6 @@ for row in data.index.tolist():
     data.loc[row, 'tokens_stem'] = ' '.join(tokens)     # set tokens_stem to the stemmed tokens
 ```
 
-['images/chars_words_compare.png]
+
+
+![Compare Word, Character Counts]({{ site.baseurl }}/images/chars_words_compare.png)
