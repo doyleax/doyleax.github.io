@@ -300,7 +300,7 @@ Topic modeling, if you haven't done it before, doesn't exactly give you solid to
   '0.027*"robot" + 0.024*"justic" + 0.022*"gun" + 0.019*"basic" + 0.014*"immigr"')]
 ```
 
-Finally, let's visualize our LDA model.
+Finally, let's visualize our LDA model. pyLDAvis provides an awesome interactive tool that lets you explore the topics. Play around with lambda at the top right corner--a lower value tends to get you terms within a topic that are more descriptive of the particular topic, so the relevance to other topics is lower. Play around with this and then continue on to part III of this text analytics, unsupervised NLP series where I'll do a quick demonstration of random sentence generation.
 
 ```python
 import pyLDAvis.gensim
