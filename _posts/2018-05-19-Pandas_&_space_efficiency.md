@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Space Efficiency with Pandas DataFrames"
-date:   2018-06-18
+date:   2018-05-18
 categories: how-to
 ---
 
