@@ -109,7 +109,7 @@ Pretty cool!
 
 ## Document Clustering (based on topic)
 
-With a large collection of documents, it might be hard to figure out where to start. A team recently came to me and asked what I could do for them, and the following gave them a great jumping off point. Clustering documents together by topic allowed them to divvy out documents to their team of research in an efficient manner. 
+With a large collection of documents, it might be hard to figure out where to start. A team recently came to me and asked what I could do for them, and the following gave them a great jumping off point. Clustering documents together by topic allowed them to divvy out documents to their team of research in an efficient manner, and visually represented by a dendrogram. 
 
 The following function uses our TD-IDF vectorizer, and then calculates cosine similarity to try and find documents with a similar score. The closer the score, the more similar the docuemnts probably are. We'll then use ward clustering, where we metaphorically start out at the leaves and work our way in to the branches of the tree. The ward clustering uses our calculated cosine similarity scores, and will group documents with the similar scores.
 
