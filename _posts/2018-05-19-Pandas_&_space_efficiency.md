@@ -140,21 +140,18 @@ Now that we have this information, let's check out each column and see which siz
 # grab all columns that are either integer or float dtypes
 temp = df.select_dtypes(include=['integer','float'])
 
-# create a dictionary of the original dtypes of this numeric df
-original_dtypes = dict(temp.dtypes)
+# create a dictionary of the df's dtypes that we will use and update with new numeric dtypes
+dtypes = dict(df.dtypes)
 
-# create an empty dictionary to place new dtypes in
-dtypes = {}
-
-for col in df.columns:
+for col in temp.columns:
     min_val = df[col].min()
     max_val = df[col].max()
   
     # find out whether this numeric column is int or float
-    num_type = re.match(r'[^0-9]+',str(original_dtypes[col])).group()
+    num_type = re.match(r'[^0-9]+',str(dtypes[col])).group()
 
     for bit in numeric_dtypes[num_type]:
-        if (min_val >= numeric_dtypes[num_type][bit][0]) & (min_val <= numeric_dtypes[num_type][bit][1]):
+        if (min_val >= numeric_dtypes[num_type][bit][0]) & (max_val <= numeric_dtypes[num_type][bit][1]):
             dtypes[col] = num_type + bit
             break  # to ensure that the smallest possible bit size gets recorded in the dtype dict, break the loop here
       
