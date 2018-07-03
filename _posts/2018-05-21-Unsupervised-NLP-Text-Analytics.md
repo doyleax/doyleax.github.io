@@ -3,6 +3,7 @@ layout: post
 title:  "Text Analytics & Unsupervised NLP - Part I"
 date:   2018-05-21
 categories: how-to
+comments: true
 ---
 
 This article will run through unsupervised text analytics using Python. The corpus (a collection of text, documents) we will be using is made up of 47 news articles from various online sources. The set is available for download in [my github repository](https://github.com/doyleax/doyleax.github.io/tree/master/data/corpus-text-analytics).
