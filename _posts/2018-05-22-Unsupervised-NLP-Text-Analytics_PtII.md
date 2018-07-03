@@ -3,6 +3,7 @@ layout: lda
 title:  "Text Analytics & Unsupervised NLP - Part II"
 date:   2018-05-22
 categories: how-to
+comments: true
 ---
 
 In the first article of the Text Analytics & Unsupervised NLP series, I walked through importing your data, stop words, cleaning, and tokenizing and finished off with visualizing n-grams: uni-, bi- and tri-grams.
