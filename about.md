@@ -21,3 +21,5 @@ I have a puppy named Boomer and he is the coolest.
 
 ### Contact me
 [Email](mailto:doylejma@gmail.com)
+[upwork.com](https://www.upwork.com/o/profiles/users/_~01dcf59a47898d5fd1/)
+[LinkedIn](https://www.linkedin.com/in/jdoyle2)
